@@ -59,5 +59,7 @@ https://react-idx-kuc.netlify.app/#/plan
 ***
 ### Blog :
 
+https://note.com/knaka0209/n/n52e5774fc36b
+
 ***
 
